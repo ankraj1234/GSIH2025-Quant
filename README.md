@@ -8,7 +8,7 @@ I secured Rank 8 overall.
 
 ## Problem Overview
 
-### Problem 1: Portfolio Hedging  
+### Problem 1: Optimal Hedging Strategy 
 **Objective:** Hedge an unhedged portfolio using a set of equity stocks.  
 **Goal:** Minimize Value at Risk (VaR) and hedging cost.
 
@@ -18,7 +18,7 @@ I secured Rank 8 overall.
 
 ---
 
-### Problem 2: Adaptive Market Making  
+### Problem 2: Automated Market Making
 **Objective:** Build an adaptive quoting strategy using order book data, recent trades, and inventory levels.
 
 - Inspired by the Avellaneda & Stoikov market-making framework.
@@ -27,7 +27,7 @@ I secured Rank 8 overall.
 
 ---
 
-### Problem 3: Exotic Option Pricing  
+### Problem 3: Exotic Option Pricing using Monte Carlo Simulation 
 **Objective:** Price exotic European up-and-out basket options on three correlated assets using Monte Carlo simulation.  
 **Bonus:** Calibrate local volatility surfaces using market data from vanilla call options.
 
